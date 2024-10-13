@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Backend Developer roles/Contributions
 
-- https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4NDk0NzMsIm5iZiI6MTcyODg0OTE3MywicGF0aCI6Ii8xMzYyMjMwNi8zNzM5NjQ3NTUtNzU0ZjdmNDgtNTdiNC00YjhmLTkwNTQtYjIxZWY3ODAzNjk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE5NTI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0ZTNjMDFjZjRiZDMxMDAwYzdjNjc1NDljNmJmNTA1ZDA0MTRhYmRlMzEzYzJiYzUyODFiOTNlYzMwNDU0MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XOrd2csQ0dYGHhuRwK3ECq2BKPimjLHwY-MiVFk2I1Q
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduVemba&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

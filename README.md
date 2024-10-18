@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduVemba
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot and Golang
 - 💞️ I’m looking to collaborate on Backend Developer roles/Contributions
 
 

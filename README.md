@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages and Tools:
 <div style="display: inline_block"><br>
-  <img align="cernter" heigth="90"width="90" alt="Edu-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
+  <img align="cernter" heigth="70"width="70" alt="Edu-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
   <img align="cernter" heigth="70"width="70" alt="Edu-SpringBoot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="cernter" heigth="70"width="70" alt="Edu-Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
   <img align="cernter" heigth="70"width="70" alt="Edu-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />

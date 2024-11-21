@@ -19,23 +19,10 @@
 
 
 ## 🛠️ Languages and Tools:
-<div style="display: inline_block"><br>
-  <img align="cernter" heigth="70"width="70" alt="Edu-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />   
-  <img align="cernter" heigth="70"width="70" alt="Edu-SpringBoot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="cernter" heigth="70"width="70" alt="Edu-Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
-  <img align="cernter" heigth="70"width="70" alt="Edu-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="cernter" heigth="70"width="70" alt="Edu-MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />       
-  <img align="cernter" heigth="70"width="70" alt="Edu-PostgeSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />  
-  <img align="cernter" heigth="70"width="70" alt="Edu-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />        
-  <img align="cernter" heigth="70"width="70" alt="Edu-HMTL5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
-  <img align="cernter" heigth="70"width="70" alt="Edu-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="cernter" heigth="70"width="70" alt="Edu-TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />       
-  <img align="cernter" heigth="70"width="70" alt="Edu-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="cernter" heigth="70"width="70" alt="Edu-Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-  <img align="cernter" heigth="70"width="70" alt="Edu-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="cernter" heigth="70"width="70" alt="Edu-HMTL5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+ [![My Skills](https://skillicons.dev/icons?i=java,go,python,js,nodejs,react,html,css,tailwind,docker,mysql,postgres,mongodb,spring,postman,maven,idea,pycharm,webstorm,vscode,git,github&theme=dark)](https://skillicons.dev)
             
-</div>
+
 
 ## Github Stats
 

@@ -3,7 +3,7 @@
 
 - 💼 I work with Back-End Development
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Spring Boot and Web3.0
+- 🌱 I’m currently learning Golang and Web3.0
 - 💞️ I’m looking to collaborate on Backend Developer roles/Contributions
 
 

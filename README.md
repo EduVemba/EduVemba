@@ -20,7 +20,7 @@
 
 ## 🛠️ Languages and Tools:
 
- [![My Skills](https://skillicons.dev/icons?i=java,go,solidity,python,js,nodejs,react,html,css,tailwind,docker,mysql,postgres,mongodb,spring,postman,maven,idea,pycharm,webstorm,vscode,git,github&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,go,solidity,js,nodejs,react,html,css,docker,mysql,postgres,mongodb,spring,git,github&theme=dark)](https://skillicons.dev)
             
 
 
